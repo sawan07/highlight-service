@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Byte-compiled
+*.log
+*.pot
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local data
+*.sqlite3
+*.db
